@@ -55,7 +55,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Wiki',
-      pageId: 'Wiki-6b5a5f392b6f4bbca3188dc73f43a94b?pvs=4'
+      pageId: 'Wiki-6b5a5f392b6f4bbca3188dc73f43a94b'
     },
     // {
     //   title: 'Contact',

@@ -54,12 +54,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
-      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+      title: 'Wiki',
+      pageId: 'Wiki-6b5a5f392b6f4bbca3188dc73f43a94b?pvs=4'
     },
-    {
-      title: 'Contact',
-      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-    }
+    // {
+    //   title: 'Contact',
+    //   pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+    // }
   ]
 })

@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'choisukjune',
-  domain: 'choisukjune.vercel.app',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'choisukjune',
 
   // open graph metadata (optional)
@@ -50,12 +50,12 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-//  navigationStyle: 'default'
+  //navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Wiki',
-      pageId: '6b5a5f392b6f4bbca3188dc73f43a94b'
+      title: 'About',
+      pageId: 'f1199d37579b41cbabfc0b5174f4256a'
     },
     {
       title: 'Contact',

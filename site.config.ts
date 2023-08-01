@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'choisukjune',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'choisukjune.vercel.app',
   author: 'choisukjune',
 
   // open graph metadata (optional)
@@ -57,9 +57,9 @@ export default siteConfig({
       title: 'Wiki',
       pageId: '6b5a5f392b6f4bbca3188dc73f43a94b'
     },
-    // {
-    //   title: 'Contact',
-    //   pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-    // }
+    {
+      title: 'Contact',
+      pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+    }
   ]
 })

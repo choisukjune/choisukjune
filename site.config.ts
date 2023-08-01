@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'choisukjune',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'choisukjune.vercel.app',
   author: 'choisukjune',
 
   // open graph metadata (optional)
